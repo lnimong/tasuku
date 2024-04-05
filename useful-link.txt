@@ -13,4 +13,7 @@ ai chat summarizer:
 sql orm diesl : 
  https://hub.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/#postgresql
  https://www.c-sharpcorner.com/article/how-to-create-a-api-in-rust/
- 
+azure storage account :
+ https://turbo360.com/guide/azure-storage-account
+hosting :
+ probablement gcp https://console.cloud.google.com/run?hl=en&project=voltaic-future-419523
