@@ -1,0 +1,16 @@
+hosting : https://www.shuttle.rs/pricing
+hosting : https://www.reddit.com/r/rust/comments/wk02p5/basic_free_hosting_for_a_rust_api_project/
+frameworks comparison : https://kerkour.com/rust-web-framework-2022
+chosen one : https://crates.io/crates/axum
+example : 
+ https://www.shuttle.rs/blog/2024/01/31/write-a-rest-api-rust
+ https://github.com/shuttle-hq/shuttle-examples/tree/main/axum
+ https://www.youtube.com/watch?v=q53xalVoc6w
+github-action => shuttle.rs : https://github.com/shuttle-hq/deploy-action
+ai chat summarizer:
+ https://www.spoke.ai/pricing
+ https://www.notta.ai/en/blog/ai-chat-summarizer
+sql orm diesl : 
+ https://hub.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/#postgresql
+ https://www.c-sharpcorner.com/article/how-to-create-a-api-in-rust/
+ 

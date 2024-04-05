@@ -1,0 +1,11 @@
+todo
+tech:init:install-rust
+tech:init:create-git
+tech:init:deploy-in-shuttle
+tech:debug-tools:create-api-with-health
+login:temp:temporary-fake-id-management
+login:temp:real-id-management
+
+unfinished
+
+done
