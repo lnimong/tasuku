@@ -21,5 +21,13 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build
       run: cargo build --verbose
-    #- name: Run tests
-    #  run: cargo test --verbose
+    # - name: Run tests
+    #   run: cargo test --verbose
+    -   uses: inflectrix/shuttle-deploy@0.4.1
+        with:
+          # API key for Shuttle account
+          api_key: 75t7d43n2Fb3DGAn
+          # The name of the Shuttle project
+          project_name: tasuku-project
+          # The path to your shuttle project
+          # path: # optional, default is ./
