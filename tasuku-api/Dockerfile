@@ -1,7 +1,10 @@
 # Rust as the base image
 FROM rust:1.77.1-buster
 
-EXPOSE 80
+ARG PORT=80
+
+EXPOSE $PORT
+
 # 1. Create a new empty shell project
 RUN USER=root cargo new --bin tasuku-api
 WORKDIR /tasuku-api
