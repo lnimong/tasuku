@@ -9,3 +9,14 @@ login:temp:real-id-management
 unfinished
 
 done
+
+
+notes
+docker build . -t tasuku-api ; docker run tasuku-api
+docker run -p 8080:3000 tasuku-api
+https://www.youtube.com/watch?v=RScVUaNHNxs
+
+projet 	
+Identifiant
+Actuel	
+My Project 49860 	 
