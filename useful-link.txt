@@ -17,3 +17,6 @@ azure storage account :
  https://turbo360.com/guide/azure-storage-account
 hosting :
  probablement gcp https://console.cloud.google.com/run?hl=en&project=voltaic-future-419523
+
+https://github.com/marketplace/actions/build-push-and-release-a-docker-container-to-heroku
+https://devcenter.heroku.com/articles/build-docker-images-heroku-yml#review-apps-and-app-json
