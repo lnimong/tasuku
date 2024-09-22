@@ -6,7 +6,7 @@ ARG PORT=80
 EXPOSE $PORT
 
 # 1. Create a new empty shell project
-RUN USER=root cargo new --bin tasuku-api
+RUN USER=root cargo new --bin run-tasuku-api
 WORKDIR /tasuku-api
 
 # 2. Copy our manifests
@@ -22,4 +22,4 @@ COPY ./src ./src
 # 5. Build for release.
 RUN cargo install --path .
 
-CMD ["tasuku-api"]
+CMD ["run-tasuku-api"]
